@@ -1,0 +1,1 @@
+This project is about market basket analysis using apriori algorithm. This is also called association rule mining. 
